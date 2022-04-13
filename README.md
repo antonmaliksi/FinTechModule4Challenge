@@ -45,17 +45,17 @@ Original .csv                                                                   
 :-----------------------------------------------------------------------------------------------------------------------------:|:-------------------------:
 ![Alt text](https://github.com/antonmaliksi/FinTechModule4Challenge/blob/main/Readme%20Resources/original%20csv.PNG)           |  ![Alt text](https://github.com/antonmaliksi/FinTechModule4Challenge/blob/main/Readme%20Resources/new%20csv.PNG)
 
-Original Step 3            |  Demonstration Step 3
-:-------------------------:|:-------------------------:
-![Alt text](url)           |  ![Alt text](url)
+Original Step 3                                                                                                                     |  Demonstration Step 3
+:----------------------------------------------------------------------------------------------------------------------------------:|:-------------------------:
+![Alt text](https://github.com/antonmaliksi/FinTechModule4Challenge/blob/main/Readme%20Resources/original%20step%203.PNG)           |  ![Alt text](https://github.com/antonmaliksi/FinTechModule4Challenge/blob/main/Readme%20Resources/new%20step%203.PNG)
 
-Original Red Text          |  Demonstration Red Text
-:-------------------------:|:-------------------------:
-![Alt text](url)           |  ![Alt text](url)
+Original Red Text                                                                                                                     |  Demonstration Red Text
+:------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------:
+![Alt text](https://github.com/antonmaliksi/FinTechModule4Challenge/blob/main/Readme%20Resources/original%20red%20text.PNG)           |  ![Alt text](https://github.com/antonmaliksi/FinTechModule4Challenge/blob/main/Readme%20Resources/new%20red%20text.PNG)
 
-Original Red Text 2        |  Demonstration Red Text 2
-:-------------------------:|:-------------------------:
-![Alt text](url)           |  ![Alt text](url)
+Original Red Text 2                                                                                                                       |  Demonstration Red Text 2
+:----------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------:
+![Alt text](https://github.com/antonmaliksi/FinTechModule4Challenge/blob/main/Readme%20Resources/original%20red%20text%202.PNG)           |  ![Alt text](https://github.com/antonmaliksi/FinTechModule4Challenge/blob/main/Readme%20Resources/new%20red%20text%202.PNG)
 
 
 ## Contributors
