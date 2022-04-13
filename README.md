@@ -41,9 +41,9 @@ To begin using the notebook in Jupyter Labs:
 ## Documentation
 Please reference the following screenshots for guidance with any changes within the code:
 
-Original .csv              |  Demonstration .csv
-:-------------------------:|:-------------------------:
-![Alt text](url)           |  ![Alt text](url)
+Original .csv                                                                                                                  |  Demonstration .csv
+:-----------------------------------------------------------------------------------------------------------------------------:|:-------------------------:
+![Alt text](https://github.com/antonmaliksi/FinTechModule4Challenge/blob/main/Readme%20Resources/original%20csv.PNG)           |  ![Alt text](https://github.com/antonmaliksi/FinTechModule4Challenge/blob/main/Readme%20Resources/new%20csv.PNG)
 
 Original Step 3            |  Demonstration Step 3
 :-------------------------:|:-------------------------:
